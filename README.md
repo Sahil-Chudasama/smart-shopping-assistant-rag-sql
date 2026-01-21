@@ -40,12 +40,15 @@ The system utilizes a modular RAG (Retrieval-Augmented Generation) flow:
 │       └── faq_data.csv    # Source file for customer policies
 └── web-scraping/           # Scripts used to collect data from Flipkart
 ```
+---
 
-![product screenshot](app/resources/product-ss.png)
+## Screenshot
+![product screenshot](resources/product-ss.png)
 
+---
 
 ## Architecture
-![architecture diagram of the e-commerce chatbot](app/resources/architecture-diagram.png)
+![architecture diagram of the e-commerce chatbot](resources/architecture-diagram.png)
 
 
 ### Set-up & Execution
